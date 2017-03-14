@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+#git add .
+#git commit -m "<message>"
+#git push -u origin <branch (master)>
+
+#git rm <filename>
+
+#git fetch
+#git rebase origin/<branch>
