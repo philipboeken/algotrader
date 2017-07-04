@@ -1,8 +1,23 @@
 # AlgoTrader Framework
+
 ## Models
-### Strategy
-### Asset
+
+### Position
+*  ID
+*  Ticker
+*  Price Acquired
+*  Timestamp Acquired
+*  Price Released
+*  Timestamp Released
+*  Profit
+
 ### Portfolio
+*  Positions
+*  Total Value
+*  Profit
+
+### Strategy
+
 ### Order
 
 ## Execution
